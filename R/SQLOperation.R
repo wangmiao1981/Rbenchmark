@@ -1,3 +1,4 @@
+# ./bin/spark-submit --executor-memory 12G /Users/mwang/Rbenchmark/R/SQLOperation.R
 library(SparkR)
 library(tictoc)
 
